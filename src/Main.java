@@ -1,7 +1,11 @@
+import processing.core.PApplet;
+
 /**
  * Created by jens on 31.03.15.
  */
-public class Main {
+public class Main extends PApplet {
+
+
 }
 
 /*
